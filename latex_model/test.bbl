@@ -1,0 +1,13 @@
+\begin{thebibliography}{45}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wang et~al., 2005]{Wang2005TE}
+Wang, X.~H., Liu, F.~Q., and Wang, G.~X. (2005).
+\newblock Te routing algorithm to minimize maximum link utilization.
+\newblock {\em Mini-micro Systems}.
+
+\end{thebibliography}
